@@ -1,0 +1,14 @@
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.AssemblyInfoInputs.cache
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.AssemblyInfo.cs
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.csproj.CoreCompileInputs.cache
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/bin/Debug/net10.0/RestaurantApp
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/bin/Debug/net10.0/RestaurantApp.deps.json
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/bin/Debug/net10.0/RestaurantApp.runtimeconfig.json
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/bin/Debug/net10.0/RestaurantApp.dll
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/bin/Debug/net10.0/RestaurantApp.pdb
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.dll
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/refint/RestaurantApp.dll
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.pdb
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/RestaurantApp.genruntimeconfig.cache
+/Users/main/RiderProjects/RestaurantApp/RestaurantApp/obj/Debug/net10.0/ref/RestaurantApp.dll
